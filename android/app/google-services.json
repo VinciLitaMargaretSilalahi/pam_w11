@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868073767583",
+    "project_id": "pam-notes-vinci",
+    "storage_bucket": "pam-notes-vinci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868073767583:android:0ba81aa7c0b75fc028d8aa",
+        "android_client_info": {
+          "package_name": "com.example.pam_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9zIqJLK8f3mokqk7skVX9MBuU_4az1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
